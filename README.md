@@ -1,6 +1,6 @@
 #  Sergey (https://primakov.ai)  <br> 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/primakovs/) 
-[![GS](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=hjAW7t0AAAAJ&hl=en) 
+[![GS](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=z53Cl7MAAAAJ&hl=en) 
 
 ### About me
 
