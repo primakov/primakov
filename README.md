@@ -12,5 +12,5 @@ If you have a feature request consider opening an issue in the corresponding rep
 
 Have a question reach out to me at: sergey@primakov.ai
 
-Like my open source work/ research? buy me a [crypto coffee](https://primakov.ai/thanks) :coffee:
+
 
